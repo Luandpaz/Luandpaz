@@ -4,9 +4,9 @@
   
  <aside>
    <ul>
-     <li><a href="https://m.facebook.com/LuandepazZz">Facebook Pessoal</a></li>
-     <li><a href="http://twitch.tv/dorminhaa">Twitch</a></li>
-      <li><a href="https://www.youtube.com/channel/UCBdOUKi5Im2zTri0L3Y42Tw">Youtube</a></li>
+     <li><a href="https://m.facebook.com/LuandepazZz" target="_blank">Facebook</a></li>
+     <li><a href="http://twitch.tv/dorminhaa" target="_blank">Twitch</a></li>
+      <li><a href="https://www.youtube.com/channel/UCBdOUKi5Im2zTri0L3Y42Tw" target="_blank">Youtube</a></li>
    </ul>
  </aside>
 </div>
