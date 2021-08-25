@@ -5,11 +5,12 @@
  <aside>
    <ul>
      <li><a href="https://m.facebook.com/LuandepazZz">Facebook Pessoal</a></li>
-     <li><a href="https://m.facebook.com/LuandepazZz">Facebook Pessoal</a></li>
+     <li><a href="http://twitch.tv/dorminhaa">Twitch</a></li>
+      <li><a href="https://www.youtube.com/channel/UCBdOUKi5Im2zTri0L3Y42Tw">Youtube</a></li>
    </ul>
  </aside>
 </div>
 
 <div class="gitstats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luandpaz)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github.com/anuraghazra/github-readme-stats.git" alt="">
 </div>
