@@ -1,6 +1,6 @@
 
 <div class="cabeçalho">
-  <h1 class="w1">Seja bem-vindo! me chamo Luan de Paz, e este é meu GitHub profissional.</h1>
+  <h1 class="w1">That's the way.</h1>
   
  <aside>
    <ul>
